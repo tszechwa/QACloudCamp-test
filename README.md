@@ -28,9 +28,9 @@
 - Тестирование надежности, продолжительной нагрузкой с большим обьемом данных
 
   ## Автоматизация тестирования API. Часть 1
-  
-  1. Скачайте репозиторий с помощью команды 'git clone https://github.com/tszechwa/QACloudCamp-test.git tszechwa_test_project'
-  2. Убедитесь, что у вас установлены библиотеки requests, а также pytest
-  3. Напишите команду для запуска тестов: 'pytest tszechwa_test_project/tests.py'
+
+  - Скачайте репозиторий с помощью команды 'git clone https://github.com/tszechwa/QACloudCamp-test.git tszechwa_test_project'
+  - Убедитесь, что у вас установлены библиотеки requests, а также pytest
+  - Напишите команду для запуска тестов: 'pytest tszechwa_test_project/tests.py'
  
   ## Автоматизация тестирования API. Часть 2
