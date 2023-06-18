@@ -11,4 +11,4 @@ RUN pip install requests pytest
 COPY . /app
 
 # Запускаем тесты
-CMD ["pytest"]
+CMD pytest tests.py
